@@ -6,7 +6,8 @@
     "title": "REALME X2 PRO...",
     "desc": "Realme x2 pro (master edition)*\n\n*excellent condition original display*\n\n*with box*\n\n*ram :12gb*\n\n*storage : 256...",
     "location": "Nagpur",
-    "price": "16,000"
+    "price": "16,000",
+    "category": "Realme"
   },
   {
     "id": 2,
@@ -14,7 +15,8 @@
     "title": "Iphone 11 64 GB...",
     "desc": "Call? & whatsapp =\n\nsidra mobile (hadpsar pune)\n\ncall time 11 am to 9 pm\n\njoin my whatsapp group\n\njust whatsapp ...",
     "location": "Pune",
-    "price": "31,999"
+    "price": "31,999",
+    "category": "Iphone"
   },
   {
     "id": 3,
@@ -22,7 +24,8 @@
     "title": "SAMSUNG S20 FE 8/128...",
     "desc": "Samsung s 20 fe in fresh condition with bill box charger in excellent condition sath hi instagram me follow kare aur pay...",
     "location": "Raipur",
-    "price": "17,500"
+    "price": "17,500",
+    "category": ""
   },
   {
     "id": 4,
@@ -30,7 +33,8 @@
     "title": "Samsung note 10 8/256 GB...",
     "desc": "Call? & whatsapp =\n\nsidra mobile (hadpsar pune)\n\ncall time 11 am to 9 pm\n\njoin my whatsapp group\n\njust whatsapp ...",
     "location": "Pune",
-    "price": "13,999"
+    "price": "13,999",
+    "category": "Samsung"
   },
   {
     "id": 5,
@@ -38,7 +42,8 @@
     "title": "IPHONE 12...",
     "desc": "Iphone 12 (finance also available)\n\n128gb black\n\nmint condition\n\nfresh piece\n\nin face id available\n\nfyde ka so...",
     "location": "Raipur",
-    "price": "41,000"
+    "price": "41,000",
+    "category": "Iphone"
   },
   {
     "id": 6,
@@ -46,7 +51,8 @@
     "title": "ONE PLUS 8...",
     "desc": "One plus 8 (finance also available)\n\n8/128gb green & 12/256gb black\n\nmint condition\n\nfresh piece\n\nin display fin...",
     "location": "Raipur",
-    "price": "26,500"
+    "price": "26,500",
+    "category": "One plus"
   },
   {
     "id": 7,
@@ -54,7 +60,8 @@
     "title": "Google pixel a premium 6 pro model 12gb ram 5G 128...",
     "desc": "Google pixel model newly unused imported with bill and warranty kindly contact us\n\nfor more details on whatsapp now\n\n...",
     "location": "Delhi",
-    "price": "36,000"
+    "price": "36,000",
+    "category": "Google pixel"
   },
   {
     "id": 8,
@@ -62,7 +69,8 @@
     "title": "Samsung S10E galaxy to Galaxy S20...",
     "desc": "Details\nbrand\nsamsung\ndescription\nsamsung model newly unused imported with bill and warranty only few pieces left pr...",
     "location": "Delhi",
-    "price": "11,998"
+    "price": "11,998",
+    "category": "Samsung"
   },
   {
     "id": 9,
@@ -70,7 +78,8 @@
     "title": "OnePlus 10 Pro (12-256gb)...",
     "desc": "Oneplus 10 pro (12-256gb) :- 48490 /-\n\n-- 6 month warranty\n\nall accessories\n\nexchange offer available\n\nfor inqui...",
     "location": "Ahmedabad",
-    "price": "48,490"
+    "price": "48,490",
+    "category": "One plus"
   },
   {
     "id": 10,
@@ -78,7 +87,8 @@
     "title": "IPhone 14 Pro Max 128GB...",
     "desc": "1 month old only, indian with bill (139900) pricing with 100% battery health, complete box pack\n\nwhatsapp us for more ...",
     "location": "Raipur",
-    "price": "1.13 Lacs"
+    "price": "1.13 Lacs",
+    "category": "Iphone"
   },
   {
     "id": 11,
@@ -86,7 +96,8 @@
     "title": "iphone 11pro max. 64gb gold colour...",
     "desc": "Iphone 11 pro max\n\n64gb\n\n87% battery health\n\n100% condition\n\nphone with bill charger\n\n?for inquiry call us:~ya...",
     "location": "Ahmedabad",
-    "price": "41,999"
+    "price": "41,999",
+    "category": "Iphone"
   },
   {
     "id": 12,
@@ -94,7 +105,8 @@
     "title": "iPhone Xs Max 64gb. & 256gb...",
     "desc": "Iphone xs max\n\n64gb & 256gb\n\n1 month shop warranty\n\nphone with full kit\n\n?for inquiry call us:~yash shah 8??8??6...",
     "location": "Ahmedabad",
-    "price": "27,499"
+    "price": "27,499",
+    "category": "Iphone"
   },
   {
     "id": 13,
@@ -102,7 +114,8 @@
     "title": "ONEPLUS 9 pro. 12/256gb...",
     "desc": "Details\nbrand\none plus\ndescription\noneplus 9pro\n\n12/256gb\n\nsilver colour\n\n100% condition\n\nphone with full ki...",
     "location": "Ahmedabad",
-    "price": "36,999"
+    "price": "36,999",
+    "category": "One plus"
   },
   {
     "id": 14,
@@ -110,7 +123,8 @@
     "title": "iPhone 13Pro 128gb gold colour...",
     "desc": "Iphone 13pro\n\n128gb\n\ngold colour\n\n89% battery health\n\n100% condition\n\nphone with full kit...",
     "location": "Ahmedabad",
-    "price": "68,999"
+    "price": "68,999",
+    "category": "Iphone"
   },
   {
     "id": 15,
@@ -118,7 +132,8 @@
     "title": "iPhone 12 64gb...",
     "desc": "Model : i phone 12\n\nstorage : 64gb\n\ncolour : white colour\n\nwarranty : 1 month shop service warranty available\n\na...",
     "location": "Ahmedabad",
-    "price": "37,999"
+    "price": "37,999",
+    "category": "Iphone"
   },
   {
     "id": 16,
@@ -126,7 +141,8 @@
     "title": "iPhone 13 128gb Blue colour...",
     "desc": "Model : i phone 13\n\nstorage : 128gb\n\ncolour : blue colour\n\nwarranty : 1 month shop service warranty available\n\na...",
     "location": "Ahmedabad",
-    "price": "49,999"
+    "price": "49,999",
+    "category": "Iphone"
   },
   {
     "id": 17,
@@ -134,7 +150,8 @@
     "title": "iphone 8 64gb gold colour...",
     "desc": "Model : i phone 8\n\nstorage : 64gb\n\ncolour : gold colour\n\nwarranty : 1 months shop service warranty available\n\nac...",
     "location": "Ahmedabad",
-    "price": "13,999"
+    "price": "13,999",
+    "category": "Iphone"
   },
   {
     "id": 18,
@@ -142,7 +159,8 @@
     "title": "Iphone 8 64gb & 256gb...",
     "desc": "=> stating price :- 13999/-\n\nmodel : i phone 8\n\nstorage : 64gb & 256gb\n\ncolour : all colour\n\nwarranty : 1 month ...",
     "location": "Ahmedabad",
-    "price": "13,999"
+    "price": "13,999",
+    "category": "Iphone"
   },
   {
     "id": 19,
@@ -150,7 +168,8 @@
     "title": "Samsung galaxy S21 ultra 12/256gb...",
     "desc": "Model : samsung galaxy s21 ultra\n\nstorage : 12/256gb\n\ncolour : silver colour\n\nwarranty : 1 months shop warranty av...",
     "location": "Ahmedabad",
-    "price": "46,999"
+    "price": "46,999",
+    "category": "Samsung"
   },
   {
     "id": 20,
@@ -158,7 +177,8 @@
     "title": "Oppo Reno 8(5G)...",
     "desc": "2 months old\n\noriginal bill and box available\n\noriginal charger\n\nbest camera phone\n\n1. no scratches in mobile\n\n...",
     "location": "Delhi",
-    "price": "24,999"
+    "price": "24,999",
+    "category": "Oppo"
   },
   {
     "id": 21,
@@ -166,7 +186,8 @@
     "title": "Apple iPhone XR 64gb Storage Capacity...",
     "desc": "Apple iphone xr\n\n64gb storage capacity\n\nblack color\n\ngood in condition\n\n82% and 87% battery health\n\nout of war...",
     "location": "Delhi",
-    "price": "19,999"
+    "price": "19,999",
+    "category": "Iphone"
   },
   {
     "id": 22,
@@ -174,7 +195,8 @@
     "title": "Samsung galaxy garand...",
     "desc": "Touch change hogi only phone bilkul thik chal raha h jis kisi ko lena h call me...",
     "location": "Delhi",
-    "price": "1,500"
+    "price": "1,500",
+    "category": "Samsung"
   },
   {
     "id": 23,
@@ -182,7 +204,8 @@
     "title": "Mi 11x 8/128...",
     "desc": "Mi 11x 8/128 5g\n\nmint condition\n\nbill/ box/ charger available.\n\nurgent sale\n\n120hz fhd+ display\n\n48mp ai camer...",
     "location": "Kolkata",
-    "price": "25,000"
+    "price": "25,000",
+    "category": "Realme"
   },
   {
     "id": 24,
@@ -190,7 +213,8 @@
     "title": "I Phone 12 PRO -128 GB...",
     "desc": "Iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone x...",
     "location": "Delhi",
-    "price": "45,999"
+    "price": "45,999",
+    "category": "Iphone"
   },
   {
     "id": 25,
@@ -198,7 +222,8 @@
     "title": "APPLE IPHONE 13 PRO -128 GB WITH BILL AND WARRANTY...",
     "desc": "Iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone x...",
     "location": "Delhi",
-    "price": "69,999"
+    "price": "69,999",
+    "category": "Iphone"
   },
   {
     "id": 26,
@@ -206,7 +231,8 @@
     "title": "APPLE IPHONE -13 PRO 128 GB...",
     "desc": "*iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone ...",
     "location": "Delhi",
-    "price": "69,799"
+    "price": "69,799",
+    "category": "Iphone"
   },
   {
     "id": 27,
@@ -214,7 +240,8 @@
     "title": "APPLE IPHONE 12 -128 GB WITH BILL AND WARRANTY...",
     "desc": "*iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone ...",
     "location": "Delhi",
-    "price": "39,999"
+    "price": "39,999",
+    "category": "Iphone"
   },
   {
     "id": 28,
@@ -222,7 +249,8 @@
     "title": "APPLE IPHONE 13 PRO -128 GB...",
     "desc": "\\\"*we deal on all iphone, iwatch & android models in best rate\n\nany information about i phone, so please call me & wha...",
     "location": "Faridabad",
-    "price": "69,999"
+    "price": "69,999",
+    "category": "Iphone"
   },
   {
     "id": 29,
@@ -230,7 +258,8 @@
     "title": "Realme //X7  Max 8GB RAM  128 internal 5G...",
     "desc": "Brand\nrealme\ndescription\nrealme //x7 +max +8gb +ram+ 128+ internal 5g...",
     "location": "Patna",
-    "price": "7,100"
+    "price": "7,100",
+    "category": "Realme"
   },
   {
     "id": 30,
@@ -238,7 +267,8 @@
     "title": "VIVO V15 4G 6GB RAM/64GB STORAGE...",
     "desc": "Sell my 1 year old phone\n\nno problem\n\npurchase kor ne se thoda discount milega...",
     "location": "Guwahati",
-    "price": "14,000"
+    "price": "14,000",
+    "category": "Vivo"
   },
   {
     "id": 31,
@@ -246,7 +276,8 @@
     "title": "APPLE IPHONE 11 PRO 64GB...",
     "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
     "location": "Delhi",
-    "price": "34,999"
+    "price": "34,999",
+    "category": "Iphone"
   },
   {
     "id": 32,
@@ -254,7 +285,8 @@
     "title": "Samsung S10 Plus...",
     "desc": "** brand new. suitable for gifting. only box opened with warranty **\n\n- galaxy note 9 6/128gb -17,899\n\n- galaxy note...",
     "location": "Delhi",
-    "price": "7,299"
+    "price": "7,299",
+    "category": "Samsung"
   },
   {
     "id": 33,
@@ -262,7 +294,8 @@
     "title": "Iphone 11 pro max 64 gb...",
     "desc": "Green color good condition battery backup good true tone working face id not working conditions good battery original ch...",
     "location": "Bhopal",
-    "price": "37,000"
+    "price": "37,000",
+    "category": "Iphone"
   },
   {
     "id": 34,
@@ -270,7 +303,8 @@
     "title": "Brand new  itel keypad mobiles...",
     "desc": "Iitel 2163 ?900\nitel 5025 ?1200\nitel 2173 ?1100\nitel 2171 ?1100\nitel 2190 ?1000\nitel muzik110.\nitel power110\nitel...",
     "location": "Delhi",
-    "price": "Call for Price"
+    "price": "Call for Price",
+    "category": "Samsung"
   },
   {
     "id": 35,
@@ -278,7 +312,8 @@
     "title": "Samsung galaxy Note 20 Ultra 12 256gb...",
     "desc": "Samsung galaxy note 20 ultra 12 256gb at dhiraj mobile store very good condition with all accessories and bill at dhiraj...",
     "location": "Nagpur",
-    "price": "37,999"
+    "price": "37,999",
+    "category": "Samsung"
   },
   {
     "id": 36,
@@ -286,7 +321,8 @@
     "title": "One Plus 10 Pro 12 256gb green...",
     "desc": "One plus 10 pro 12 256gb green 6 months used at dhiraj mobile store very good condition with all accessories and bill at...",
     "location": "Nagpur",
-    "price": "48,999"
+    "price": "48,999",
+    "category": "One plus"
   },
   {
     "id": 37,
@@ -294,7 +330,8 @@
     "title": "One Plus 9 12 256gb purple...",
     "desc": "One plus 9 12 256gb purple at dhiraj mobile store very good condition with all accessories and bill at dhiraj mobile sto...",
     "location": "Nagpur",
-    "price": "28,999"
+    "price": "28,999",
+    "category": "One plus"
   },
   {
     "id": 38,
@@ -302,7 +339,8 @@
     "title": "iPhone 12 Pro max 256gb silver golden blue...",
     "desc": "Description\niphone 12 pro max 256gb silver golden blue at dhiraj mobile store very good condition with all accessories ...",
     "location": "Nagpur",
-    "price": "60,999"
+    "price": "60,999",
+    "category": "Iphone"
   },
   {
     "id": 39,
@@ -310,7 +348,8 @@
     "title": "Iphone 7plus 32GB - Black...",
     "desc": "Apple iphone 7 plus 32gb\n\nmat black colour\n\nexcellent condition\n\nwith full kit\n\n3 month shop warranty...",
     "location": "Ahmedabad",
-    "price": "9,990"
+    "price": "9,990",
+    "category": "Iphone"
   },
   {
     "id": 40,
@@ -318,7 +357,8 @@
     "title": "Google Pixel 6Pro - 12/256GB...",
     "desc": "Google pixel 6pro\n\n12/256gb storage\n\nblack & white colour\n\nexcellent condition\n\nbrand new international phones\n...",
     "location": "Ahmedabad",
-    "price": "41,900"
+    "price": "41,900",
+    "category": "Google pixel"
   },
   {
     "id": 41,
@@ -326,7 +366,8 @@
     "title": "Motorola Edge Plus 5G - 12/256GB...",
     "desc": "Motorola edge plus 5g\n\n12/256gb storage\n\nthunder gray colour\n\nlike new condition\n\nwith bill\n\n03 month seller w...",
     "location": "Ahmedabad",
-    "price": "25,900"
+    "price": "25,900",
+    "category": "Motorola"
   },
   {
     "id": 42,
@@ -334,7 +375,8 @@
     "title": "One Plus 6T...",
     "desc": "One plus 6t\n\n8 rom / 128 storege\n\nbill box and charger\n\nall phone is working\n\n100% genuine\n\nsupar emo led\n\ng...",
     "location": "Ahmedabad",
-    "price": "14,499"
+    "price": "14,499",
+    "category": "One plus"
   },
   {
     "id": 43,
@@ -342,7 +384,8 @@
     "title": "Samsung S20 5G - 12/128...",
     "desc": "Samsung galaxy s20 5g\n\n12gb 128gb\n\nall colour\n\nbrand new - non used\n\ninternational - single sim\n\nwith bill\n\n...",
     "location": "Ahmedabad",
-    "price": "19,990"
+    "price": "19,990",
+    "category": "Samsung"
   },
   {
     "id": 44,
@@ -350,7 +393,8 @@
     "title": "Samsung Galaxy Z Fold 2 5G 12GB 256GB...",
     "desc": "Brand\nsamsung\ndescription\nsamsung galaxy z fold 2 5g with all accessories bill box earphone charger data cable dock a...",
     "location": "Delhi",
-    "price": "48,000"
+    "price": "48,000",
+    "category": "Samsung"
   },
   {
     "id": 45,
@@ -358,7 +402,8 @@
     "title": "Only 7 Days old Phone (04-01-2023)...",
     "desc": "Urgent selling\nonly 7 days old phone \nit's available with charger, bill & box\n\nnote :- main reason to selling this phone...",
     "location": "Others",
-    "price": "11,999"
+    "price": "11,999",
+    "category": "Samsung"
   },
   {
     "id": 46,
@@ -366,7 +411,8 @@
     "title": "Only 7 Days old Phone (04-01-2023)...",
     "desc": "Urgent selling\nonly 7 days old phone \nit's available with charger, bill & box\n\nnote :- main reason to selling this phone...",
     "location": "Others",
-    "price": "11,999"
+    "price": "11,999",
+    "category": "Samsung"
   },
   {
     "id": 47,
@@ -374,7 +420,8 @@
     "title": "Samsung m31 ocean blue  6gb ram 128 gb...",
     "desc": "Description\nsamsung m31 ocean blue\n\n6gb ram 128 gb memory ufs 2.1\n\neverything with the phone\n\n64 megha pixel ultr...",
     "location": "Mumbai",
-    "price": "8,500"
+    "price": "8,500",
+    "category": "Samsung"
   },
   {
     "id": 48,
@@ -382,7 +429,8 @@
     "title": "iPhone 13 pro max alphine green 128 gb...",
     "desc": "Description\niphone 13 pro max alphine green 128 gb\n\nseal open\n\ncheapest price\n\nwholesale rates\n\nnon mrp\n\nwarr...",
     "location": "Mumbai",
-    "price": "85,147"
+    "price": "85,147",
+    "category": "Iphone"
   },
   {
     "id": 49,
@@ -390,7 +438,8 @@
     "title": "oppo f17...",
     "desc": "6gb ram\n128gb rom\n...",
     "location": "Chennai",
-    "price": "10,000"
+    "price": "10,000",
+    "category": "Oppo"
   },
   {
     "id": 50,
@@ -398,7 +447,8 @@
     "title": "IPHONE 13PRO 128GB ALL COLOUR AVAILABLE...",
     "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
     "location": "Noida",
-    "price": "70,000"
+    "price": "70,000",
+    "category": "Iphone"
   },
   {
     "id": 51,
@@ -406,7 +456,8 @@
     "title": "BRAND NEW APPLE IPHONE 12 PRO 128 GB...",
     "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
     "location": "Noida",
-    "price": "45,999"
+    "price": "45,999",
+    "category": "Iphone"
   },
   {
     "id": 52,
@@ -414,7 +465,8 @@
     "title": "IPHONE 13...",
     "desc": "Iphone 13 (finance also available)\n\n128gb black\n\n10.5 month warranty\n\nmint condition\n\nfresh piece\n\nin face id ...",
     "location": "Raipur",
-    "price": "58,000"
+    "price": "58,000",
+    "category": "Iphone"
   },
   {
     "id": 53,
@@ -422,7 +474,8 @@
     "title": "SAMSUNG S10 PLUS...",
     "desc": "Samsung s10 plus (finance also available)\n\n8/128gb white\n\nmint condition\n\nfresh piece\n\nin display finger availab...",
     "location": "Raipur",
-    "price": "19,000"
+    "price": "19,000",
+    "category": "Samsung"
   },
   {
     "id": 54,
@@ -430,7 +483,8 @@
     "title": "Apple Iphone 11 pro 64 Gb...",
     "desc": "Apple\n\niphone 11 pro\n\n64 gb\n\n89% battery health\n\nwith bill and cable\n\nexchange also available\n\ncall or whats...",
     "location": "Raipur",
-    "price": "37,999"
+    "price": "37,999",
+    "category": "Iphone"
   },
   {
     "id": 55,
@@ -438,7 +492,8 @@
     "title": "Apple Iphone Xs 64 Gb...",
     "desc": "Apple\n\niphone xs\n\n64 gb\n\n83% battery health\n\nwith bill and cable\n\nexchange also available\n\ncall or whatsapp\n...",
     "location": "Raipur",
-    "price": "21,999"
+    "price": "21,999",
+    "category": "Iphone"
   },
   {
     "id": 56,
@@ -446,7 +501,8 @@
     "title": "IPHONE 6 64GB GRAY MOBILE...",
     "desc": "Welcome to yalu mobiles madurai,\n\nwe sell new and lite used mobiles for a reasonable\n\nprice in the market.\n\nwe can...",
     "location": "Madurai",
-    "price": "5,999"
+    "price": "5,999",
+    "category":"Iphone"
   },
   {
     "id": 57,
@@ -454,7 +510,8 @@
     "title": "Samsung galaxy note 20 8GB/256GB...",
     "desc": "Model: samsung galaxy note 2o\n\n8gb/256gb blue colour all working condition never open available\n\nbill box and charge...",
     "location": "Mumbai",
-    "price": "27,999"
+    "price": "27,999",
+    "category": "Samsung"
   },
   {
     "id": 58,
@@ -462,7 +519,8 @@
     "title": "One plus 9r 12/256gb...",
     "desc": "Brand - oneplus\n\nmodel - 9r\n\ncolor - blue\n\nstorage - 12/256gb\n\ncondition - excellent\n\nwarranty - over\n\nacces...",
     "location": "Mumbai",
-    "price": "22,000"
+    "price": "22,000",
+    "category": "One plus"
   }
 ]
 }
