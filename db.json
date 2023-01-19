@@ -3,233 +3,508 @@
   {
     "id": 1,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230105164450-36518.png",
-    "title": "REALME X2 PRO...",
-    "desc": "Realme x2 pro (master edition)*\n\n*excellent condition original display*\n\n*with box*\n\n*ram :12gb*\n\n*storage : 256...",
+    "title": "REALME X2 PRO",
+    "desc": "Realme x2 pro (master edition)*excellent condition original display*with box*ram :12gb*storage : 256",
     "location": "Nagpur",
     "price": "16,000",
-    "category": "Realme"
+    "category": "Realme",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230105164450-36518.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230105164450-41229.png",
+       "description":"REALME X2 PRO (MASTER EDITION) EXCELLENT CONDITION ORIGINAL DISPLAY",
+       "RAM":"12 GB",
+       "Storage":"256GB",
+       "Color":"RED BRICK",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 2,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20221228153728-87390.png",
-    "title": "Iphone 11 64 GB...",
-    "desc": "Call? & whatsapp =\n\nsidra mobile (hadpsar pune)\n\ncall time 11 am to 9 pm\n\njoin my whatsapp group\n\njust whatsapp ...",
+    "title": "Iphone 11 64 GB",
+    "desc": "Call? & whatsapp =sidra mobile (hadpsar pune)call time 11 am to 9 pmjoin my whatsapp groupjust whatsapp",
     "location": "Pune",
     "price": "31,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118173944-97277.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/small/20230118173944-82131.png",
+       "description":"Iphone 11 64 GB",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 3,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20221227174342-12163.png",
-    "title": "SAMSUNG S20 FE 8/128...",
-    "desc": "Samsung s 20 fe in fresh condition with bill box charger in excellent condition sath hi instagram me follow kare aur pay...",
+    "title": "SAMSUNG S20 FE 8/128",
+    "desc": "Samsung s 20 fe in fresh condition with bill box charger in excellent condition sath hi instagram me follow kare aur pay",
     "location": "Raipur",
     "price": "17,500",
-    "category": ""
+    "category": "Samsung",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20221227174342-12163.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20221227174342-17889.png",
+       "description":"SAMSUNG S20 FE 8/128",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 4,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230108214959-52904.png",
-    "title": "Samsung note 10 8/256 GB...",
-    "desc": "Call? & whatsapp =\n\nsidra mobile (hadpsar pune)\n\ncall time 11 am to 9 pm\n\njoin my whatsapp group\n\njust whatsapp ...",
+    "title": "Samsung note 10 8/256 GB",
+    "desc": "Call? & whatsapp =sidra mobile (hadpsar pune)call time 11 am to 9 pmjoin my whatsapp groupjust whatsapp",
     "location": "Pune",
     "price": "13,999",
-    "category": "Samsung"
+    "category": "Samsung",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116161453-51653.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116161453-84607.png",
+       "description":"Samsung note 10 8/256 GB",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Pune, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 5,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230108080113-3375.png",
-    "title": "IPHONE 12...",
-    "desc": "Iphone 12 (finance also available)\n\n128gb black\n\nmint condition\n\nfresh piece\n\nin face id available\n\nfyde ka so...",
+    "title": "IPHONE 12",
+    "desc": "Iphone 12 (finance also available) 128gb black mint condition fresh piece in face id available fyde ka so",
     "location": "Raipur",
     "price": "41,000",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230108073753-30554.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230108073753-66148.png",
+       "description":"IPHONE 12",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Blue",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store,Raipur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 6,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230108075726-9938.png",
-    "title": "ONE PLUS 8...",
-    "desc": "One plus 8 (finance also available)\n\n8/128gb green & 12/256gb black\n\nmint condition\n\nfresh piece\n\nin display fin...",
+    "title": "ONE PLUS 8",
+    "desc": "One plus 8 (finance also available) 8/128gb green & 12/256gb black mint condition fresh piecein display fin",
     "location": "Raipur",
     "price": "26,500",
-    "category": "One plus"
+    "category": "One plus",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230108075726-9938.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118172920-43945.png",
+       "description":"ONE PLUS 8",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 7,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111113302-60543.png",
-    "title": "Google pixel a premium 6 pro model 12gb ram 5G 128...",
-    "desc": "Google pixel model newly unused imported with bill and warranty kindly contact us\n\nfor more details on whatsapp now\n\n...",
+    "title": "Google pixel a premium 6 pro model 12gb ram 5G 128",
+    "desc": "Google pixel model newly unused imported with bill and warranty kindly contact us for more details on whatsapp now",
     "location": "Delhi",
     "price": "36,000",
-    "category": "Google pixel"
+    "category": "Google pixel",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118164420-52014.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118164420-52014.png",
+       "description":"Google pixel a premium 6 pro model 12gb ram 5G 128",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 8,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111113755-23350.png",
-    "title": "Samsung S10E galaxy to Galaxy S20...",
-    "desc": "Details\nbrand\nsamsung\ndescription\nsamsung model newly unused imported with bill and warranty only few pieces left pr...",
+    "title": "Samsung S10E galaxy to Galaxy S20",
+    "desc": "Details brand samsung description samsung model newly unused imported with bill and warranty only few pieces left pr",
     "location": "Delhi",
     "price": "11,998",
-    "category": "Samsung"
+    "category": "Samsung",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118160149-39234.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118160149-41621.png",
+       "description":"Samsung S10E galaxy to Galaxy S20",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Silver",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 9,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111183304-30343.png",
-    "title": "OnePlus 10 Pro (12-256gb)...",
-    "desc": "Oneplus 10 pro (12-256gb) :- 48490 /-\n\n-- 6 month warranty\n\nall accessories\n\nexchange offer available\n\nfor inqui...",
+    "title": "OnePlus 10 Pro (12-256gb)",
+    "desc": "Oneplus 10 pro (12-256gb) :- 48490 /-- 6 month warranty all accessories exchange offer available for inqui",
     "location": "Ahmedabad",
     "price": "48,490",
-    "category": "One plus"
+    "category": "One plus",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-88687.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-27701.png",
+       "description":"OnePlus 10 Pro (12-256gb)",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 10,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112131447-40960.png",
-    "title": "IPhone 14 Pro Max 128GB...",
-    "desc": "1 month old only, indian with bill (139900) pricing with 100% battery health, complete box pack\n\nwhatsapp us for more ...",
+    "title": "IPhone 14 Pro Max 128GB",
+    "desc": "1 month old only, indian with bill (139900) pricing with 100% battery health, complete box pack whatsapp us for more",
     "location": "Raipur",
     "price": "1.13 Lacs",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174557-64042.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174557-36804.png",
+       "description":"IPhone 14 Pro Max 128GB",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"White",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 11,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182522-97437.png",
-    "title": "iphone 11pro max. 64gb gold colour...",
-    "desc": "Iphone 11 pro max\n\n64gb\n\n87% battery health\n\n100% condition\n\nphone with bill charger\n\n?for inquiry call us:~ya...",
+    "title": "iphone 11pro max. 64gb gold colour ",
+    "desc": "Iphone 11 pro max 64gb 87% battery health 100% condition phone with bill charger ?for inquiry call us:~ya",
     "location": "Ahmedabad",
     "price": "41,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182522-97437.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230116174004-45061.png",
+       "description":"iphone 11pro max. 64gb gold colour",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Gold",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 12,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114183215-51463.png",
-    "title": "iPhone Xs Max 64gb. & 256gb...",
-    "desc": "Iphone xs max\n\n64gb & 256gb\n\n1 month shop warranty\n\nphone with full kit\n\n?for inquiry call us:~yash shah 8??8??6...",
+    "title": "iPhone Xs Max 64gb. & 256gb ",
+    "desc": "Iphone xs max64gb & 256gb 1 month shop warranty phone with full kit ?for inquiry call us:~yash shah 8??8??6",
     "location": "Ahmedabad",
     "price": "27,499",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230118082350-53342.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114183215-51463.png",
+       "description":"iPhone Xs Max 64gb. & 256gb ",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 13,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114183753-12482.png",
-    "title": "ONEPLUS 9 pro. 12/256gb...",
-    "desc": "Details\nbrand\none plus\ndescription\noneplus 9pro\n\n12/256gb\n\nsilver colour\n\n100% condition\n\nphone with full ki...",
+    "title": "ONEPLUS 9 pro. 12/256gb",
+    "desc": "Details brand one plus description oneplus 9pro 12/256gb silver colour 100% condition phone with full ki",
     "location": "Ahmedabad",
     "price": "36,999",
-    "category": "One plus"
+    "category": "One plus",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-27701.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115155851-88687.png",
+       "description":"ONEPLUS 9 pro. 12/256gb",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Blue",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 14,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182235-30910.png",
-    "title": "iPhone 13Pro 128gb gold colour...",
-    "desc": "Iphone 13pro\n\n128gb\n\ngold colour\n\n89% battery health\n\n100% condition\n\nphone with full kit...",
+    "title": "iPhone 13Pro 128gb gold colour",
+    "desc": "Iphone 13pro 128gb gold colour 89% battery health 100% condition phone with full kit",
     "location": "Ahmedabad",
     "price": "68,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115180544-31450.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114182235-30910.png",
+       "description":"iPhone 13Pro 128gb gold colour",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 15,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181821-19976.png",
-    "title": "iPhone 12 64gb...",
-    "desc": "Model : i phone 12\n\nstorage : 64gb\n\ncolour : white colour\n\nwarranty : 1 month shop service warranty available\n\na...",
+    "title": "iPhone 12 64gb",
+    "desc": "Model : i phone 12 storage : 64gb colour : white colour warranty : 1 month shop service warranty avail ",
     "location": "Ahmedabad",
     "price": "37,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230115175555-42635.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181821-19976.png",
+       "description":"iPhone 12 64gb",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 16,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181515-24492.png",
-    "title": "iPhone 13 128gb Blue colour...",
-    "desc": "Model : i phone 13\n\nstorage : 128gb\n\ncolour : blue colour\n\nwarranty : 1 month shop service warranty available\n\na...",
+    "title": "iPhone 13 128gb Blue colour",
+    "desc": "Model : i phone 13 storage : 128gb colour : blue colour warranty : 1 month shop service warranty available a",
     "location": "Ahmedabad",
     "price": "49,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230112131447-40960.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230112131447-35557.png",
+       "description":"iPhone 13 128gb Blue colour",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 17,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181211-23151.png",
-    "title": "iphone 8 64gb gold colour...",
-    "desc": "Model : i phone 8\n\nstorage : 64gb\n\ncolour : gold colour\n\nwarranty : 1 months shop service warranty available\n\nac...",
+    "title": "iphone 8 64gb gold colour",
+    "desc": "Model : i phone 8 storage : 64gb colour : gold colour warranty : 1 months shop service warranty available ac",
     "location": "Ahmedabad",
     "price": "13,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114183215-51463.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114181211-23151.png",
+       "description":"iphone 8 64gb gold colour",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 18,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114175855-86329.png",
-    "title": "Iphone 8 64gb & 256gb...",
-    "desc": "=> stating price :- 13999/-\n\nmodel : i phone 8\n\nstorage : 64gb & 256gb\n\ncolour : all colour\n\nwarranty : 1 month ...",
+    "title": "Iphone 8 64gb & 256gb",
+    "desc": "=> stating price :- 13999/- model : i phone 8 storage : 64gb & 256gb colour : all colour warranty : 1 month",
     "location": "Ahmedabad",
     "price": "13,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114181211-23151.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114181211-64047.png",
+       "description":"Iphone 8 64gb & 256gb",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 19,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114180044-4914.png",
-    "title": "Samsung galaxy S21 ultra 12/256gb...",
-    "desc": "Model : samsung galaxy s21 ultra\n\nstorage : 12/256gb\n\ncolour : silver colour\n\nwarranty : 1 months shop warranty av...",
+    "title": "Samsung galaxy S21 ultra 12/256gb",
+    "desc": "Model : samsung galaxy s21 ultra storage : 12/256gb colour : silver colour warranty : 1 months shop warranty av",
     "location": "Ahmedabad",
     "price": "46,999",
-    "category": "Samsung"
+    "category": "Samsung",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114180044-4914.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114180044-12837.png",
+       "description":"Samsung galaxy S21 ultra 12/256gb",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 20,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114173142-14939.png",
-    "title": "Oppo Reno 8(5G)...",
-    "desc": "2 months old\n\noriginal bill and box available\n\noriginal charger\n\nbest camera phone\n\n1. no scratches in mobile\n\n...",
+    "title": "Oppo Reno 8(5G)",
+    "desc": "2 months old original bill and box available original charger best camera phone 1. no scratches in mobile",
     "location": "Delhi",
     "price": "24,999",
-    "category": "Oppo"
+    "category": "Oppo",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114173142-14939.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114173142-43347.png",
+       "description":"Oppo Reno 8(5G)",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 21,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114161105-12588.png",
-    "title": "Apple iPhone XR 64gb Storage Capacity...",
-    "desc": "Apple iphone xr\n\n64gb storage capacity\n\nblack color\n\ngood in condition\n\n82% and 87% battery health\n\nout of war...",
+    "title": "Apple iPhone XR 64gb Storage Capacity",
+    "desc": "Apple iphone xr 64gb storage capacity black color good in condition 82% and 87% battery health out of war",
     "location": "Delhi",
     "price": "19,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114161105-37995.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114161105-12588.png",
+       "description":"Apple iPhone XR 64gb Storage Capacity",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 22,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230114160436-85891.png",
-    "title": "Samsung galaxy garand...",
-    "desc": "Touch change hogi only phone bilkul thik chal raha h jis kisi ko lena h call me...",
+    "title": "Samsung galaxy garand",
+    "desc": "Touch change hogi only phone bilkul thik chal raha h jis kisi ko lena h call me",
     "location": "Delhi",
     "price": "1,500",
-    "category": "Samsung"
+    "category": "Samsung",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114160436-6855.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230114160436-85891.png",
+       "description":"Samsung galaxy garand",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 23,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113181758-97380.jpeg",
-    "title": "Mi 11x 8/128...",
-    "desc": "Mi 11x 8/128 5g\n\nmint condition\n\nbill/ box/ charger available.\n\nurgent sale\n\n120hz fhd+ display\n\n48mp ai camer...",
+    "title": "Mi 11x 8/128",
+    "desc": "Mi 11x 8/128 5g mint condition bill/ box/ charger available. urgent sale 120hz fhd+ display 48mp ai camer",
     "location": "Kolkata",
     "price": "25,000",
-    "category": "Realme"
+    "category": "Realme",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113181758-45648.jpeg",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113181758-2691.jpeg",
+       "description":"Mi 11x 8/128",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 24,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121823-63711.png",
-    "title": "I Phone 12 PRO -128 GB...",
-    "desc": "Iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone x...",
+    "title": "IPhone 12 PRO -128 GB",
+    "desc": "Iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone x...",
     "location": "Delhi",
     "price": "45,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121823-63711.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121823-63711.png",
+       "description":"IPhone 12 PRO -128 GB",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 25,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121520-15829.png",
-    "title": "APPLE IPHONE 13 PRO -128 GB WITH BILL AND WARRANTY...",
-    "desc": "Iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone x...",
+    "title": "APPLE IPHONE 13 PRO -128 GB WITH BILL AND WARRANTY",
+    "desc": "Iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/-*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone x...",
     "location": "Delhi",
     "price": "69,999",
-    "category": "Iphone"
+    "category": "Iphone",
+    "Details":[
+      {
+       "img1":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121520-15829.png",
+       "img2":"https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/medium/20230113121520-15829.png",
+       "description":"APPLE IPHONE 13 PRO -128 GB WITH BILL AND WARRANTY",
+       "RAM":"64GB",
+       "Storage":"256GB",
+       "Color":"Deep Black",
+       "Address":"Smart Innovations Sitabuldi Shery Mobile Bazar Sitabuldi Netaji Marg in Enternce of, 4, Modi Number 3, beside Nilesh Cycle Store, Nagpur, Maharashtra 440012"
+      }
+    ]
   },
   {
     "id": 26,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121307-10984.png",
-    "title": "APPLE IPHONE -13 PRO 128 GB...",
-    "desc": "*iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone ...",
+    "title": "APPLE IPHONE -13 PRO 128 GB",
+    "desc": "*iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/-*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone ...",
     "location": "Delhi",
     "price": "69,799",
     "category": "Iphone"
@@ -238,7 +513,7 @@
     "id": 27,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121108-46584.png",
     "title": "APPLE IPHONE 12 -128 GB WITH BILL AND WARRANTY...",
-    "desc": "*iphone 6s 64gb- 9,999/-\n\n*iphone 7 32gb- 9,999/-\n\n*iphone 7 128gb- 11,999/-\n\n*iphone 8 64gb- 12,999/-\n\n*iphone ...",
+    "desc": "*iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/-*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone ...",
     "location": "Delhi",
     "price": "39,999",
     "category": "Iphone"
@@ -246,8 +521,8 @@
   {
     "id": 28,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113120320-96361.png",
-    "title": "APPLE IPHONE 13 PRO -128 GB...",
-    "desc": "\\\"*we deal on all iphone, iwatch & android models in best rate\n\nany information about i phone, so please call me & wha...",
+    "title": "APPLE IPHONE 13 PRO -128 GB",
+    "desc": "*we deal on all iphone, iwatch & android models in best rate any information about i phone, so please call me & wha",
     "location": "Faridabad",
     "price": "69,999",
     "category": "Iphone"
@@ -255,8 +530,8 @@
   {
     "id": 29,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112205847-12120.png",
-    "title": "Realme //X7  Max 8GB RAM  128 internal 5G...",
-    "desc": "Brand\nrealme\ndescription\nrealme //x7 +max +8gb +ram+ 128+ internal 5g...",
+    "title": "Realme //X7  Max 8GB RAM  128 internal 5G",
+    "desc": "Brand realme description realme //x7 +max +8gb +ram+ 128+ internal 5g",
     "location": "Patna",
     "price": "7,100",
     "category": "Realme"
@@ -265,7 +540,7 @@
     "id": 30,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112190533-98464.png",
     "title": "VIVO V15 4G 6GB RAM/64GB STORAGE...",
-    "desc": "Sell my 1 year old phone\n\nno problem\n\npurchase kor ne se thoda discount milega...",
+    "desc": "Sell my 1 year old phone no problem purchase kor ne se thoda discount milega",
     "location": "Guwahati",
     "price": "14,000",
     "category": "Vivo"
@@ -273,8 +548,8 @@
   {
     "id": 31,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112174350-88863.png",
-    "title": "APPLE IPHONE 11 PRO 64GB...",
-    "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
+    "title": "APPLE IPHONE 11 PRO 64GB",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb ",
     "location": "Delhi",
     "price": "34,999",
     "category": "Iphone"
@@ -282,8 +557,8 @@
   {
     "id": 32,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112170455-31393.png",
-    "title": "Samsung S10 Plus...",
-    "desc": "** brand new. suitable for gifting. only box opened with warranty **\n\n- galaxy note 9 6/128gb -17,899\n\n- galaxy note...",
+    "title": "Samsung S10 Plus",
+    "desc": "** brand new. suitable for gifting. only box opened with warranty **- galaxy note 9 6/128gb -17,899- galaxy note",
     "location": "Delhi",
     "price": "7,299",
     "category": "Samsung"
@@ -291,8 +566,8 @@
   {
     "id": 33,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112150402-70190.png",
-    "title": "Iphone 11 pro max 64 gb...",
-    "desc": "Green color good condition battery backup good true tone working face id not working conditions good battery original ch...",
+    "title": "Iphone 11 pro max 64 gb",
+    "desc": "Green color good condition battery backup good true tone working face id not working conditions good battery original ch",
     "location": "Bhopal",
     "price": "37,000",
     "category": "Iphone"
@@ -300,8 +575,8 @@
   {
     "id": 34,
     "image": "https://www.zamroo.com/images/default.gif",
-    "title": "Brand new  itel keypad mobiles...",
-    "desc": "Iitel 2163 ?900\nitel 5025 ?1200\nitel 2173 ?1100\nitel 2171 ?1100\nitel 2190 ?1000\nitel muzik110.\nitel power110\nitel...",
+    "title": "Brand new  itel keypad mobiles",
+    "desc": "Iitel 2163 ?900 itel 5025 ?1200 itel 2173 ?1100 itel 2171 ?1100 itel 2190 ?1000 itel muzik110. itel power110 itel...",
     "location": "Delhi",
     "price": "Call for Price",
     "category": "Samsung"
@@ -309,8 +584,8 @@
   {
     "id": 35,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112075215-71987.png",
-    "title": "Samsung galaxy Note 20 Ultra 12 256gb...",
-    "desc": "Samsung galaxy note 20 ultra 12 256gb at dhiraj mobile store very good condition with all accessories and bill at dhiraj...",
+    "title": "Samsung galaxy Note 20 Ultra 12 256gb",
+    "desc": "Samsung galaxy note 20 ultra 12 256gb at dhiraj mobile store very good condition with all accessories and bill at dhiraj",
     "location": "Nagpur",
     "price": "37,999",
     "category": "Samsung"
@@ -318,8 +593,8 @@
   {
     "id": 36,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112073312-44363.png",
-    "title": "One Plus 10 Pro 12 256gb green...",
-    "desc": "One plus 10 pro 12 256gb green 6 months used at dhiraj mobile store very good condition with all accessories and bill at...",
+    "title": "One Plus 10 Pro 12 256gb green",
+    "desc": "One plus 10 pro 12 256gb green 6 months used at dhiraj mobile store very good condition with all accessories and bill at",
     "location": "Nagpur",
     "price": "48,999",
     "category": "One plus"
@@ -327,8 +602,8 @@
   {
     "id": 37,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112073006-51425.png",
-    "title": "One Plus 9 12 256gb purple...",
-    "desc": "One plus 9 12 256gb purple at dhiraj mobile store very good condition with all accessories and bill at dhiraj mobile sto...",
+    "title": "One Plus 9 12 256gb purple",
+    "desc": "One plus 9 12 256gb purple at dhiraj mobile store very good condition with all accessories and bill at dhiraj mobile sto",
     "location": "Nagpur",
     "price": "28,999",
     "category": "One plus"
@@ -336,8 +611,8 @@
   {
     "id": 38,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112072729-86414.png",
-    "title": "iPhone 12 Pro max 256gb silver golden blue...",
-    "desc": "Description\niphone 12 pro max 256gb silver golden blue at dhiraj mobile store very good condition with all accessories ...",
+    "title": "iPhone 12 Pro max 256gb silver golden blue",
+    "desc": "Description iphone 12 pro max 256gb silver golden blue at dhiraj mobile store very good condition with all accessories ",
     "location": "Nagpur",
     "price": "60,999",
     "category": "Iphone"
@@ -345,8 +620,8 @@
   {
     "id": 39,
     "image": "https://www.zamroo.com/images/default.gif",
-    "title": "Iphone 7plus 32GB - Black...",
-    "desc": "Apple iphone 7 plus 32gb\n\nmat black colour\n\nexcellent condition\n\nwith full kit\n\n3 month shop warranty...",
+    "title": "Iphone 7plus 32GB - Black",
+    "desc": "Apple iphone 7 plus 32gb mat black colour excellent condition with full kit 3 month shop warranty",
     "location": "Ahmedabad",
     "price": "9,990",
     "category": "Iphone"
@@ -354,8 +629,8 @@
   {
     "id": 40,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111182822-88837.png",
-    "title": "Google Pixel 6Pro - 12/256GB...",
-    "desc": "Google pixel 6pro\n\n12/256gb storage\n\nblack & white colour\n\nexcellent condition\n\nbrand new international phones\n...",
+    "title": "Google Pixel 6Pro - 12/256GB",
+    "desc": "Google pixel 6pro 12/256gb storage black & white colour excellent condition brand new international phones",
     "location": "Ahmedabad",
     "price": "41,900",
     "category": "Google pixel"
@@ -364,7 +639,7 @@
     "id": 41,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111180811-71432.png",
     "title": "Motorola Edge Plus 5G - 12/256GB...",
-    "desc": "Motorola edge plus 5g\n\n12/256gb storage\n\nthunder gray colour\n\nlike new condition\n\nwith bill\n\n03 month seller w...",
+    "desc": "Motorola edge plus 5g 12/256gb storage thunder gray colour like new condition with bill 03 month seller w",
     "location": "Ahmedabad",
     "price": "25,900",
     "category": "Motorola"
@@ -372,8 +647,8 @@
   {
     "id": 42,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111175546-9849.png",
-    "title": "One Plus 6T...",
-    "desc": "One plus 6t\n\n8 rom / 128 storege\n\nbill box and charger\n\nall phone is working\n\n100% genuine\n\nsupar emo led\n\ng...",
+    "title": "One Plus 6T",
+    "desc": "One plus 6t 8 rom / 128 storege bill box and charger all phone is working 100% genuine supar emo led",
     "location": "Ahmedabad",
     "price": "14,499",
     "category": "One plus"
@@ -382,7 +657,7 @@
     "id": 43,
     "image": "https://www.zamroo.com/images/default.gif",
     "title": "Samsung S20 5G - 12/128...",
-    "desc": "Samsung galaxy s20 5g\n\n12gb 128gb\n\nall colour\n\nbrand new - non used\n\ninternational - single sim\n\nwith bill\n\n...",
+    "desc": "Samsung galaxy s20 5g 12gb 128gb all colour brand new - non used international - single sim with bill",
     "location": "Ahmedabad",
     "price": "19,990",
     "category": "Samsung"
@@ -390,8 +665,8 @@
   {
     "id": 44,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111071205-20635.png",
-    "title": "Samsung Galaxy Z Fold 2 5G 12GB 256GB...",
-    "desc": "Brand\nsamsung\ndescription\nsamsung galaxy z fold 2 5g with all accessories bill box earphone charger data cable dock a...",
+    "title": "Samsung Galaxy Z Fold 2 5G 12GB 256GB",
+    "desc": "Brand samsung description samsung galaxy z fold 2 5g with all accessories bill box earphone charger data cable dock a",
     "location": "Delhi",
     "price": "48,000",
     "category": "Samsung"
@@ -399,8 +674,8 @@
   {
     "id": 45,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110222959-54245.jpg",
-    "title": "Only 7 Days old Phone (04-01-2023)...",
-    "desc": "Urgent selling\nonly 7 days old phone \nit's available with charger, bill & box\n\nnote :- main reason to selling this phone...",
+    "title": "Only 7 Days old Phone (04-01-2023)",
+    "desc": "Urgent selling only 7 days old phone it's available with charger, bill & box note :- main reason to selling this phone",
     "location": "Others",
     "price": "11,999",
     "category": "Samsung"
@@ -408,8 +683,8 @@
   {
     "id": 46,
     "image": "https://www.zamroo.com/images/default.gif",
-    "title": "Only 7 Days old Phone (04-01-2023)...",
-    "desc": "Urgent selling\nonly 7 days old phone \nit's available with charger, bill & box\n\nnote :- main reason to selling this phone...",
+    "title": "Only 7 Days old Phone (04-01-2023)",
+    "desc": "Urgent selling only 7 days old phone it's available with charger, bill & box note :- main reason to selling this phone",
     "location": "Others",
     "price": "11,999",
     "category": "Samsung"
@@ -417,8 +692,8 @@
   {
     "id": 47,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110192432-98680.png",
-    "title": "Samsung m31 ocean blue  6gb ram 128 gb...",
-    "desc": "Description\nsamsung m31 ocean blue\n\n6gb ram 128 gb memory ufs 2.1\n\neverything with the phone\n\n64 megha pixel ultr...",
+    "title": "Samsung m31 ocean blue  6gb ram 128 gb",
+    "desc": "Description samsung m31 ocean blue 6gb ram 128 gb memory ufs 2.1 everything with the phone 64 megha pixel ultr",
     "location": "Mumbai",
     "price": "8,500",
     "category": "Samsung"
@@ -426,8 +701,8 @@
   {
     "id": 48,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110191834-98142.png",
-    "title": "iPhone 13 pro max alphine green 128 gb...",
-    "desc": "Description\niphone 13 pro max alphine green 128 gb\n\nseal open\n\ncheapest price\n\nwholesale rates\n\nnon mrp\n\nwarr...",
+    "title": "iPhone 13 pro max alphine green 128 gb",
+    "desc": "Description iphone 13 pro max alphine green 128 gb seal open cheapest price wholesale rates\n\nnon mrp warr",
     "location": "Mumbai",
     "price": "85,147",
     "category": "Iphone"
@@ -435,8 +710,8 @@
   {
     "id": 49,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110141537-52988.jpg",
-    "title": "oppo f17...",
-    "desc": "6gb ram\n128gb rom\n...",
+    "title": "oppo f17",
+    "desc": "6gb ram 128gb rom",
     "location": "Chennai",
     "price": "10,000",
     "category": "Oppo"
@@ -444,8 +719,8 @@
   {
     "id": 50,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110082059-99274.png",
-    "title": "IPHONE 13PRO 128GB ALL COLOUR AVAILABLE...",
-    "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
+    "title": "IPHONE 13PRO 128GB ALL COLOUR AVAILABLE",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb ",
     "location": "Noida",
     "price": "70,000",
     "category": "Iphone"
@@ -453,8 +728,8 @@
   {
     "id": 51,
     "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110081903-21830.png",
-    "title": "BRAND NEW APPLE IPHONE 12 PRO 128 GB...",
-    "desc": "Iphone 6s-64gb =10000/-\n\niphone 7-32gb =10000/-\n\niphone 7-128gb =12000/-\n\niphone 8-64gb =13000/-\n\niphone x-64gb ...",
+    "title": "BRAND NEW APPLE IPHONE 12 PRO 128 GB",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb",
     "location": "Noida",
     "price": "45,999",
     "category": "Iphone"
