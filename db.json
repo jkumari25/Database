@@ -1196,5 +1196,14 @@
     "price": "22,000",
     "category": "One plus"
   }
+],
+"Adminlogin":[
+  {
+    "firstname": "Jagriti",
+    "lastname": "Kumari",
+    "adminemail": "Masai@123",
+    "adminpassword": "123456",
+    "id": 1
+  }
 ]
 }
