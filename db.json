@@ -933,5 +933,268 @@
     "features":"Fingerprint Scanner, GPS, FM Radio"
   }
   
+],
+"Admin":[
+  {
+    "id": 55,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121307-10984.png",
+    "title": "APPLE IPHONE -13 PRO 128 GB",
+    "desc": "*iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/-*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone ...",
+    "location": "Delhi",
+    "price": "69,799",
+    "category": "Iphone"
+  },
+  {
+    "id": 56,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113121108-46584.png",
+    "title": "APPLE IPHONE 12 -128 GB WITH BILL AND WARRANTY...",
+    "desc": "*iphone 6s 64gb- 9,999/-*iphone 7 32gb- 9,999/-*iphone 7 128gb- 11,999/-*iphone 8 64gb- 12,999/-*iphone ...",
+    "location": "Delhi",
+    "price": "39,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 57,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230113120320-96361.png",
+    "title": "APPLE IPHONE 13 PRO -128 GB",
+    "desc": "*we deal on all iphone, iwatch & android models in best rate any information about i phone, so please call me & wha",
+    "location": "Faridabad",
+    "price": "69,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 58,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112205847-12120.png",
+    "title": "Realme //X7  Max 8GB RAM  128 internal 5G",
+    "desc": "Brand realme description realme //x7 +max +8gb +ram+ 128+ internal 5g",
+    "location": "Patna",
+    "price": "7,100",
+    "category": "Realme"
+  },
+  {
+    "id": 59,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112190533-98464.png",
+    "title": "VIVO V15 4G 6GB RAM/64GB STORAGE...",
+    "desc": "Sell my 1 year old phone no problem purchase kor ne se thoda discount milega",
+    "location": "Guwahati",
+    "price": "14,000",
+    "category": "Vivo"
+  },
+  {
+    "id": 60,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112174350-88863.png",
+    "title": "APPLE IPHONE 11 PRO 64GB",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb ",
+    "location": "Delhi",
+    "price": "34,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 61,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112170455-31393.png",
+    "title": "Samsung S10 Plus",
+    "desc": "** brand new. suitable for gifting. only box opened with warranty **- galaxy note 9 6/128gb -17,899- galaxy note",
+    "location": "Delhi",
+    "price": "7,299",
+    "category": "Samsung"
+  },
+  {
+    "id": 62,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112150402-70190.png",
+    "title": "Iphone 11 pro max 64 gb",
+    "desc": "Green color good condition battery backup good true tone working face id not working conditions good battery original ch",
+    "location": "Bhopal",
+    "price": "37,000",
+    "category": "Iphone"
+  },
+  {
+    "id": 63,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112075215-71987.png",
+    "title": "Samsung galaxy Note 20 Ultra 12 256gb",
+    "desc": "Samsung galaxy note 20 ultra 12 256gb at dhiraj mobile store very good condition with all accessories and bill at dhiraj",
+    "location": "Nagpur",
+    "price": "37,999",
+    "category": "Samsung"
+  },
+  {
+    "id": 64,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112073312-44363.png",
+    "title": "One Plus 10 Pro 12 256gb green",
+    "desc": "One plus 10 pro 12 256gb green 6 months used at dhiraj mobile store very good condition with all accessories and bill at",
+    "location": "Nagpur",
+    "price": "48,999",
+    "category": "One plus"
+  },
+  {
+    "id": 65,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112073006-51425.png",
+    "title": "One Plus 9 12 256gb purple",
+    "desc": "One plus 9 12 256gb purple at dhiraj mobile store very good condition with all accessories and bill at dhiraj mobile sto",
+    "location": "Nagpur",
+    "price": "28,999",
+    "category": "One plus"
+  },
+  {
+    "id": 66,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230112072729-86414.png",
+    "title": "iPhone 12 Pro max 256gb silver golden blue",
+    "desc": "Description iphone 12 pro max 256gb silver golden blue at dhiraj mobile store very good condition with all accessories ",
+    "location": "Nagpur",
+    "price": "60,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 67,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111182822-88837.png",
+    "title": "Google Pixel 6Pro - 12/256GB",
+    "desc": "Google pixel 6pro 12/256gb storage black & white colour excellent condition brand new international phones",
+    "location": "Ahmedabad",
+    "price": "41,900",
+    "category": "Google pixel"
+  },
+  {
+    "id": 68,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111180811-71432.png",
+    "title": "Motorola Edge Plus 5G - 12/256GB...",
+    "desc": "Motorola edge plus 5g 12/256gb storage thunder gray colour like new condition with bill 03 month seller w",
+    "location": "Ahmedabad",
+    "price": "25,900",
+    "category": "Motorola"
+  },
+  {
+    "id": 69,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111175546-9849.png",
+    "title": "One Plus 6T",
+    "desc": "One plus 6t 8 rom / 128 storege bill box and charger all phone is working 100% genuine supar emo led",
+    "location": "Ahmedabad",
+    "price": "14,499",
+    "category": "One plus"
+  },
+  {
+    "id": 70,
+    "image": "https://www.zamroo.com/images/default.gif",
+    "title": "Samsung S20 5G - 12/128...",
+    "desc": "Samsung galaxy s20 5g 12gb 128gb all colour brand new - non used international - single sim with bill",
+    "location": "Ahmedabad",
+    "price": "19,990",
+    "category": "Samsung"
+  },
+  {
+    "id": 71,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230111071205-20635.png",
+    "title": "Samsung Galaxy Z Fold 2 5G 12GB 256GB",
+    "desc": "Brand samsung description samsung galaxy z fold 2 5g with all accessories bill box earphone charger data cable dock a",
+    "location": "Delhi",
+    "price": "48,000",
+    "category": "Samsung"
+  },
+  {
+    "id": 72,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110192432-98680.png",
+    "title": "Samsung m31 ocean blue  6gb ram 128 gb",
+    "desc": "Description samsung m31 ocean blue 6gb ram 128 gb memory ufs 2.1 everything with the phone 64 megha pixel ultr",
+    "location": "Mumbai",
+    "price": "8,500",
+    "category": "Samsung"
+  },
+  {
+    "id": 73,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110191834-98142.png",
+    "title": "iPhone 13 pro max alphine green 128 gb",
+    "desc": "Description iphone 13 pro max alphine green 128 gb seal open cheapest price wholesale rates\n\nnon mrp warr",
+    "location": "Mumbai",
+    "price": "85,147",
+    "category": "Iphone"
+  },
+  {
+    "id": 74,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110141537-52988.jpg",
+    "title": "oppo f17",
+    "desc": "6gb ram 128gb rom",
+    "location": "Chennai",
+    "price": "10,000",
+    "category": "Oppo"
+  },
+  {
+    "id": 75,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110082059-99274.png",
+    "title": "IPHONE 13PRO 128GB ALL COLOUR AVAILABLE",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb ",
+    "location": "Noida",
+    "price": "70,000",
+    "category": "Iphone"
+  },
+  {
+    "id": 76,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230110081903-21830.png",
+    "title": "BRAND NEW APPLE IPHONE 12 PRO 128 GB",
+    "desc": "Iphone 6s-64gb =10000/-iphone 7-32gb =10000/-iphone 7-128gb =12000/-iphone 8-64gb =13000/-iphone x-64gb",
+    "location": "Noida",
+    "price": "45,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 77,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230101154616-58457.png",
+    "title": "IPHONE 13...",
+    "desc": "Iphone 13 (finance also available)\n\n128gb black\n\n10.5 month warranty\n\nmint condition\n\nfresh piece\n\nin face id ...",
+    "location": "Raipur",
+    "price": "58,000",
+    "category": "Iphone"
+  },
+  {
+    "id": 78,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230101154343-66852.png",
+    "title": "SAMSUNG S10 PLUS...",
+    "desc": "Samsung s10 plus (finance also available)\n\n8/128gb white\n\nmint condition\n\nfresh piece\n\nin display finger availab...",
+    "location": "Raipur",
+    "price": "19,000",
+    "category": "Samsung"
+  },
+  {
+    "id": 79,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230101152300-73825.png",
+    "title": "Apple Iphone 11 pro 64 Gb...",
+    "desc": "Apple\n\niphone 11 pro\n\n64 gb\n\n89% battery health\n\nwith bill and cable\n\nexchange also available\n\ncall or whats...",
+    "location": "Raipur",
+    "price": "37,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 80,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230101152045-25244.png",
+    "title": "Apple Iphone Xs 64 Gb...",
+    "desc": "Apple\n\niphone xs\n\n64 gb\n\n83% battery health\n\nwith bill and cable\n\nexchange also available\n\ncall or whatsapp\n...",
+    "location": "Raipur",
+    "price": "21,999",
+    "category": "Iphone"
+  },
+  {
+    "id": 81,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230102211034-37607.png",
+    "title": "IPHONE 6 64GB GRAY MOBILE...",
+    "desc": "Welcome to yalu mobiles madurai,\n\nwe sell new and lite used mobiles for a reasonable\n\nprice in the market.\n\nwe can...",
+    "location": "Madurai",
+    "price": "5,999",
+    "category":"Iphone"
+  },
+  {
+    "id": 82,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230104132156-2431.png",
+    "title": "Samsung galaxy note 20 8GB/256GB...",
+    "desc": "Model: samsung galaxy note 2o\n\n8gb/256gb blue colour all working condition never open available\n\nbill box and charge...",
+    "location": "Mumbai",
+    "price": "27,999",
+    "category": "Samsung"
+  },
+  {
+    "id": 83,
+    "image": "https://zamroo.s3.ap-south-1.amazonaws.com/images/product-images/mobiles-tablets/mobile-phones/large/20230104132014-78172.png",
+    "title": "One plus 9r 12/256gb...",
+    "desc": "Brand - oneplus\n\nmodel - 9r\n\ncolor - blue\n\nstorage - 12/256gb\n\ncondition - excellent\n\nwarranty - over\n\nacces...",
+    "location": "Mumbai",
+    "price": "22,000",
+    "category": "One plus"
+  }
 ]
 }
