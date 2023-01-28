@@ -1204,6 +1204,34 @@
     "adminemail": "Masai@123",
     "adminpassword": "123456",
     "id": 1
+  },
+  {
+    "firstname": "Manisha",
+    "lastname": "Wadhe",
+    "adminemail": "Mani@1234",
+    "adminpassword": "123456",
+    "id": 2  
+  },
+  {
+    "firstname": "Shubham",
+    "lastname": "Kumar",
+    "adminemail": "Shub@1234",
+    "adminpassword": "123456",
+    "id": 3  
+  },
+  {
+    "firstname": "Mustaq",
+    "lastname": "Ansari",
+    "adminemail": "Mustaq@1234",
+    "adminpassword": "123456",
+    "id": 4  
+  },
+  {
+    "firstname": "Akash",
+    "lastname": "Gupta",
+    "adminemail": "Akash@1234",
+    "adminpassword": "123456",
+    "id": 5  
   }
 ]
 }
